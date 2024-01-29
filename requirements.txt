@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+PyPdf2
+langchain
+faiss-cpu
+langchain_google_genai==0.0.6
+SpeechRecognition
+gtts
